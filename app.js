@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const searchButton = document.querySelector('.search');
     const clearButton = document.querySelector('.clear');
     const resultDiv = document.querySelector('.result');
-    const isHomePage = window.location.pathname.includes('travel_recommendation.html');
+    const isHomePage = window.location.pathname.includes('index.html');
 
     // Function to fetch and filter data
     async function searchDestinations(searchTerm) {
@@ -106,7 +106,7 @@ document.addEventListener('DOMContentLoaded', function () {
         if (!isHomePage) {
             // If not on home page, store search term and redirect
             sessionStorage.setItem('pendingSearch', searchTerm);
-            window.location.href = 'travel_recommendation.html';
+            window.location.href = 'index.html';
             return;
         }
 
