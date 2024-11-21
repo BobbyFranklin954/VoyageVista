@@ -1,0 +1,87 @@
+{
+    "countries": [
+        {
+            "id": 1,
+            "name": "Australia",
+            "timeZone": "Australia/Sydney",
+            "cities": [
+                {
+                    "name": "Sydney, Australia",
+                    "imageUrl": "https://cdn.getyourguide.com/img/tour/e9e93e1e1b17dd9f099a345abe7f1191e30f47908aebabf955f5546e0d6a9d49.jpeg/98.jpg",
+                    "description": "A vibrant city known for its iconic landmarks like the Sydney Opera House and Sydney Harbour Bridge."
+                },
+                {
+                    "name": "Melbourne, Australia",
+                    "imageUrl": "https://i.redd.it/rafidqh5mq321.jpg",
+                    "description": "A cultural hub famous for its art, food, and diverse neighborhoods."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Japan",
+            "timeZone": "Asia/Tokyo",
+            "cities": [
+                {
+                    "name": "Tokyo, Japan",
+                    "imageUrl": "https://lp-cms-production.imgix.net/2021-05/GettyRF_1155343901.jpg?auto=format&fit=crop&sharp=10&vib=20&ixlib=react-8.6.4&w=850&q=20&dpr=5",
+                    "description": "A bustling metropolis blending tradition and modernity, famous for its cherry blossoms and rich culture."
+                },
+                {
+                    "name": "Kyoto, Japan",
+                    "imageUrl": "https://preview.redd.it/nwwcr4z4bqj21.jpg?auto=webp&s=0e889d61102905d198ab24f9dfdcb0015dc0306a",
+                    "description": "Known for its historic temples, gardens, and traditional tea houses."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Brazil",
+            "timeZone": "America/Sao_Paulo",
+            "cities": [
+                {
+                    "name": "Rio de Janeiro, Brazil",
+                    "imageUrl": "https://th.bing.com/th/id/OIP.hX1dvpoBXnyMNlcbhQ88RwAAAA?rs=1&pid=ImgDetMain",
+                    "description": "A lively city known for its stunning beaches, vibrant carnival celebrations, and iconic landmarks."
+                },
+                {
+                    "name": "São Paulo, Brazil",
+                    "imageUrl": "https://th.bing.com/th/id/R.fdc9fbd9f681be1c2ef5026005d956b2?rik=4t3ypzKif14jGA&riu=http%3a%2f%2ffoundtheworld.com%2fwp-content%2fuploads%2f2016%2f09%2fSao-Paulo-Brazil-4.jpg&ehk=a%2b%2bpVHfIm%2f4ij7593rvBSVYV3LnjuZYhbDsBmN7LWEs%3d&risl=&pid=ImgRaw&r=0",
+                    "description": "The financial hub with diverse culture, arts, and a vibrant nightlife."
+                }
+            ]
+        }
+    ],
+    "temples": [
+        {
+            "id": 1,
+            "name": "Angkor Wat, Cambodia",
+            "timeZone": "Asia/Phnom_Penh",
+            "imageUrl": "https://th.bing.com/th/id/OIP.nhH9nGh8onFNyFdWs9FhWwEsDP?rs=1&pid=ImgDetMain",
+            "description": "A UNESCO World Heritage site and the largest religious monument in the world."
+        },
+        {
+            "id": 2,
+            "name": "Taj Mahal, India",
+            "timeZone": "Asia/Kolkata",
+            "imageUrl": "https://i0.wp.com/landlopers.com/wp-content/uploads/2018/04/Taj-Mahal-India.jpg?fit=1854%2C1512&ssl=1",
+            "description": "An iconic symbol of love and a masterpiece of Mughal architecture."
+        }
+    ],
+    "beaches": [
+        {
+            "id": 1,
+            "name": "Bora Bora, French Polynesia",
+            "timeZone": "Pacific/Tahiti",
+            "imageUrl": "https://th.bing.com/th/id/OIP.vvj-gkzbBZAfywkrNfKQ1AAAAA?rs=1&pid=ImgDetMain",
+            "description": "An island known for its stunning turquoise waters and luxurious overwater bungalows."
+        },
+        {
+            "id": 2,
+            "name": "Copacabana Beach, Brazil",
+            "timeZone": "America/Sao_Paulo",
+            "imageUrl": "https://th.bing.com/th/id/R.b874c7bc7248c46409f5a8e4bff6210d?rik=UVMFOS2JX4rsoQ&riu=http%3a%2f%2fiamsheglobal.files.wordpress.com%2f2013%2f05%2fcopacabana-beach1-2.jpg&ehk=vPoygpuu0mly7HBSejVp3MpDHHYnt3bAucaklPhCVS0%3d&risl=1&pid=ImgRaw&r=0",
+            "description": "A famous beach in Rio de Janeiro, Brazil, with a vibrant atmosphere and scenic views."
+        }
+    ]
+}
